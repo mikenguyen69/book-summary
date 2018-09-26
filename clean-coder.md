@@ -55,6 +55,34 @@ Your commitment must respect the limits of what you expect (based on your experi
 ## Chapter 4 - Coding
 
 
+Coding requires a level of concentration and focus that few other disciplines require. 
+
+* A clean coder codes only if she can guarantee enough focus
+* Distractions (personal, environmental, or whatever) are a problem. 
+* Overtime is a problem.
+
+Flow ("the zone") is not as good as people think: you will be locally productive, but will often lose sight of the bigger picture and possibly product no-so-good designs 
+
+Interruptions are bad distractions. 
+* Pair programming is helpful to cope with them. 
+* TDD helps to make the pre-interruption context reproducible 
+* Minimize time spent debugging 
+
+If you have writer's block, start pair programming 
+* Make sure you take in enough creative input, e.g. reading fiction books. Find out what works for you
+
+Coding is a marathon, not a sprint, so conserve the energy and creativity. 
+* Go home when it's time, even in the middle of something important. 
+* Showers and cars are problem-solving resources too.
+ 
+Continuously re-estimate your best/likely/worst completion time and speak up as soon as you recognize you will likely be late. 
+* Do not allow anyone to rush you. 
+* Consider overtime only for short stretch (2 weeks max.) and only if there is fallback plan as well. 
+* Use a proper definition of "done", with sufficiently high quality requirements 
+ 
+Programming is too hard for anyone, so get help and provide help to others, in particular (but not only) in mentoring style. 
+* Don't protect your turf, don't shy away from asking, don't show away others who ask.
+
 ## Chapter 5 - Test-driven development 
 
 
@@ -77,7 +105,7 @@ Your commitment must respect the limits of what you expect (based on your experi
 
 
 ## Chapter 12 - Collaboration 
-
+ 
 
 ## Chapter 13 - Teams and Projects
 
