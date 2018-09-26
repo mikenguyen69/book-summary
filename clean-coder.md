@@ -85,6 +85,19 @@ Programming is too hard for anyone, so get help and provide help to others, in p
 
 ## Chapter 5 - Test-driven development 
 
+TDD is not a cure-all and is impractical or inappropriate in some (rare) cases.
+
+Three principles:
+1. You are not allowed to write any production code until you have first written a failing unit test
+2. You are not allowed to write more of a unit test than is sufficient to fail, and not compiling is failing 
+3. You are not allowed to write more production code than is sufficient to pass the currently failing unit test
+
+The cycle only about 30 second long
+* It provides certainly not having broken anything when making changes
+* It reduces defect injection rates often 2-10x
+* It provides courage for cleaning up messy code
+* It documents how code is to be used 
+* It makes you create designs with low coupling
 
 ## Chapter 6 - Practicing 
 
