@@ -102,7 +102,31 @@ The cycle only about 30 second long
 ## Chapter 6 - Practicing 
 
 
+A programming Kata is a precise set of choreographed keystrokes and mouse movements that simulates the solving of some programming problem. 
+
+* You aren't actually solving the problem because you already know the solution. 
+* Rather, you are practicing the movements and decisions involved in solving the problem (IDE, TDD, CI)
+
+
 ## Chapter 7 - Acceptance Test
+
+Avoid garbage in, garbage out. Make sure you understand the requirements, and expect your customer to initially not understand them. 
+* Creating this understanding means removing ambiguity 
+
+Best way to do this is defining acceptance tests: 
+* Ask the customer for all conditions they will plausibly want the software behavior to fulfill and turn them into automated tests. 
+* Customers often will not want to answer all your questions, so developers or tests will have to guess, in particular for the failure cases, and then validate the result with them
+* Success of those tests constitutes the definition of "Done"
+ 
+Code implementation should start only when the test implementation is complete. 
+* Look out for silly, awkward, or plain incorrect tests and work with the test authors to improve them 
+
+Unlike unit tests (which are for programmers only), the audience of acceptance tests are both business and developers. 
+* Prime purpose of both kinds is specification, testing is only secondary. 
+
+Test GUIs mostly one level below the actual GUI (on abstractions of the GUI elements) to reduce test volatility 
+	
+Run all tests in a continuous integration and immediately fix any failures that may occur.
 
 
 ## Chapter 8 - Test Strategies 
