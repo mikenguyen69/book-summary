@@ -131,6 +131,21 @@ Run all tests in a continuous integration and immediately fix any failures that 
 
 ## Chapter 8 - Test Strategies 
 
+Consider QA part of the team. They act as specifiers: writing acceptance tests, including the failure cases and corner cases, and perform exploratory testing
+
+Testing pyramid 
+1. Most tests are unit tests
+* By developer and For developers
+* Executing almost every statement of the class and asserting its behavior
+2. Many tests are component or integration tests 
+* By QA or Business assisted by Developers, For Business and Developers
+* In a component testing framework, executing all relevant paths through larger combination of classes. 
+* Component tests mock away other parts of the system and assert correct business rules.
+* Integration tests may or may not mock and assert correct choreography of the pieces 
+ 
+Some tests are automated system tests of the whole, usually at GUI level with the respective tools
+ 
+A bit more testing is done manually at system level in creative, exploratory fashion
 
 ## Chapter 9 - Time Management 
 
