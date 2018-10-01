@@ -149,6 +149,28 @@ A bit more testing is done manually at system level in creative, exploratory fas
 
 ## Chapter 9 - Time Management 
 
+Software development, especially in management roles, requires good time management discipline 
+ 
+Meeting are necessary but are also often huge time wasters, so avoid meeting that have no clear benefit -> this is a professional obligation. 
+ 
+Meeting must have an agenda and a clear goal
+* Agile stand up meetings can be an efficient format 
+* Iteration planning should take 5% of the iteration (2 hours for  one-week iteration)
+ 
+Any argument that can't be settled in five minutes can't be settled by arguing. So don't try to; make measurements, flip a coin or vote
+ 
+Concentration (focus) is a scarce resource
+* Use it well when present and recharge with simpler tasks (meetings) and breaks in between 
+
+How to improve? 
+* Sport
+* Creative input
+* Pomodoro techniques (25 - 30' block time)
+ 
+Professionals work on their real tasks, in a sensible priority order, even if they don't like some of them 
+* They admit when they have chosen the wrong path and leave it quickly 
+* They recognize messes (whether their own or others') and never accept them, they clean up.
+* Nothing brings down productivity more than a mess. 
 
 ## Chapter 10 - Estimation 
 
