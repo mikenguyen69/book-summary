@@ -174,6 +174,34 @@ Professionals work on their real tasks, in a sensible priority order, even if th
 
 ## Chapter 10 - Estimation 
 
+Estimation is the source of most distrust between business people and developers, because the latter provide estimate which the former treat like commitments. 
+* both are insufficiently aware that the estimate really is a probability distribution, not a fixed number 
+
+The PERT technique computes and uses such distribution based on base-case, nominal and worst-case estimate for the project or better each task
+
+* Program Evaluation and Review Technique (PERT): analyse and represent the activity in a project to illustrate the flow of events in a project
+* PERT is a method to evaluate the time required to complete a task within deadlines, also cost.
+* PERT involves following steps
+
+	1. Identifying Tasks and Milestones. 
+
+		* Every project involves a series of required tasks. 
+		* These tasks are listed in a table allowing additional information on sequence and timing to be added later
+	2. Placing the tasks in a Proper Sequence
+		* Tasks are analysed and placed in a sequence to get the desired results 
+	3. Network Diagramming
+		* A network diagram is drawn using the activity sequence data showing the sequence of serial and parallel activities 
+	4. Time Estimating: this is the time required to carry out each activity, in three parts:
+		1. Optimistic timing: the shortest time to complete an activity 
+		2. The most likely timing: the completion time having the highest probability 
+		3. Pessimistic timing: the longest time to complete an activity 
+	5. Critical Path Estimating: 
+		* Determines the total time required to complete a project
+		
+Wideband Delphi (e.g. Planning Poker) is an estimation procedure where several estimators iteratively work towards agreement. 
+* Can be combine with PERT
+
+
 
 ## Chapter 11 - Pressure 
 
