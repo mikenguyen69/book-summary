@@ -205,11 +205,36 @@ Wideband Delphi (e.g. Planning Poker) is an estimation procedure where several e
 
 ## Chapter 11 - Pressure 
 
+The professional developer is calm and decisive under pressure, adhering to his training and disciplines, knowing that they are the best way to meet the pressing deadlines and commitments 
+
+Avoid situations that cause pressure via
+
+	* make only commitments you can fulfill
+	* keep your code clean
+	* work in such a way that you need not change it when in crisis
+
+Don't panic. Make a plan (and talk with your team). Don't rush. Trust your disciplines. 
+
+Offer pairing to others in crisis
+
 
 ## Chapter 12 - Collaboration 
  
+Not all but most programmers like working alone. But we need to understand the goals of the people around us, including business folks. 
+
+	* This requires communication. 
+
+Likewise, within the development team: only collective code ownership and pairing produce a good level of communication. 
+	* Programming is all about communication. 
 
 ## Chapter 13 - Teams and Projects
+
+Teams need time (months) to gel, to really get to know each other and learn to truly work together
+
+Assigning fractional people to projects is a bad idea, as is breaking up a good team at the end of a project. 
+ 
+Instead, assigning several projects to one team can work well
+
 
 
 ## Chapter 14 - Mentoring, Apprenticeship and Craftsmanship 
