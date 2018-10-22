@@ -237,5 +237,51 @@ Instead, assigning several projects to one team can work well
 
 ## Chapter 14 - Mentoring, Apprenticeship and Craftsmanship 
 
+Young programmers need mentoring. 
+* Mentoring can be implicit or explicit 
+	Implicit = reading a good manual or observing someone working)
+* Medicine has established a system of apprenticeship for new practitioners (a full year) in which mentoring is likely to occur and another 3 - 5 years of apprenticeship are required to become a professional in medicine specialty 
+
+Given that we entrust software with all aspects of our lives, a reasonable  period of training and supervised practice would be appropriate. 
+* A system of masters, journeymen and apprentices as in the crafts might be suitable. 
+* We currently do not impose on the elders a responsibility to teach the young. 
+	We are missing the mindset of craftsmanship and so the elders fail to consciously act as the role model that would make the young adopt the craftsmanship attitude as well
 
 ## Chapter 15 - Applications and Tools
+
+Version management:
+* Enterprise tools
+* CVS, SVN
+* Git 
+* Branching
+	
+Editors / IDEs
+* vi, Emacs, IntelliJ, Eclipse, Textmate
+ 
+Issue Tracking
+* Pivotal tracker
+* Light house
+* Wiki
+* Bulletin board
+* Issue dumps
+
+Continuous build: Jenkins
+
+Unit testing tools 
+* JUnits, RSpect, NUnit, Midje, CppUTest
+
+Components testing tools
+* FitNesse
+* RobotFX
+* Green Pepper
+* Cucumber
+* JBehave
+
+Integration Testing Tools
+* Selenium 
+* Watir
+
+UML / MDA (Model Driven Architecture)
+* Code vs. details as main problem
+
+
